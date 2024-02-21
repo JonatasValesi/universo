@@ -1,0 +1,10 @@
+.universe {
+   display: flex;
+   position: relative;
+}
+
+.universe img {
+   width: 100px;
+   margin: 20px;
+}
+
