@@ -5,6 +5,11 @@
 
 .universe img {
    width: 100px;
-   margin: 20px;
+   margin: 10px;
 }
 
+button {
+   background-color: #000010;
+   border-radius: 800px;
+   border: none;
+}
